@@ -1,0 +1,22 @@
+[
+	[ValueAnnotation=I TextAnnotation=I OriginalTextAnnotation=I CharacterOffsetBeginAnnotation=0 CharacterOffsetEndAnnotation=1 BeforeAnnotation= AfterAnnotation= ],
+ 	[ValueAnnotation=was TextAnnotation=was OriginalTextAnnotation=was CharacterOffsetBeginAnnotation=2 CharacterOffsetEndAnnotation=5 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=born TextAnnotation=born OriginalTextAnnotation=born CharacterOffsetBeginAnnotation=6 CharacterOffsetEndAnnotation=10 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=Jan TextAnnotation=Jan OriginalTextAnnotation=Jan CharacterOffsetBeginAnnotation=11 CharacterOffsetEndAnnotation=14 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=1st TextAnnotation=1st OriginalTextAnnotation=1st CharacterOffsetBeginAnnotation=15 CharacterOffsetEndAnnotation=18 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=2000 TextAnnotation=2000 OriginalTextAnnotation=2000 CharacterOffsetBeginAnnotation=19 CharacterOffsetEndAnnotation=23 BeforeAnnotation=  AfterAnnotation=],
+ 	[ValueAnnotation=, TextAnnotation=, OriginalTextAnnotation=, CharacterOffsetBeginAnnotation=23 CharacterOffsetEndAnnotation=24 BeforeAnnotation= AfterAnnotation= ],
+ 	[ValueAnnotation=and TextAnnotation=and OriginalTextAnnotation=and CharacterOffsetBeginAnnotation=25 CharacterOffsetEndAnnotation=28 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=I TextAnnotation=I OriginalTextAnnotation=I CharacterOffsetBeginAnnotation=29 CharacterOffsetEndAnnotation=30 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=got TextAnnotation=got OriginalTextAnnotation=got CharacterOffsetBeginAnnotation=31 CharacterOffsetEndAnnotation=34 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=into TextAnnotation=into OriginalTextAnnotation=into CharacterOffsetBeginAnnotation=35 CharacterOffsetEndAnnotation=39 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=the TextAnnotation=the OriginalTextAnnotation=the CharacterOffsetBeginAnnotation=40 CharacterOffsetEndAnnotation=43 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=NBA TextAnnotation=NBA OriginalTextAnnotation=NBA CharacterOffsetBeginAnnotation=44 CharacterOffsetEndAnnotation=47 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=last TextAnnotation=last OriginalTextAnnotation=last CharacterOffsetBeginAnnotation=48 CharacterOffsetEndAnnotation=52 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=year TextAnnotation=year OriginalTextAnnotation=year CharacterOffsetBeginAnnotation=53 CharacterOffsetEndAnnotation=57 BeforeAnnotation=  AfterAnnotation=],
+ 	[ValueAnnotation=, TextAnnotation=, OriginalTextAnnotation=, CharacterOffsetBeginAnnotation=57 CharacterOffsetEndAnnotation=58 BeforeAnnotation= AfterAnnotation= ],
+ 	[ValueAnnotation=but TextAnnotation=but OriginalTextAnnotation=but CharacterOffsetBeginAnnotation=59 CharacterOffsetEndAnnotation=62 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=got TextAnnotation=got OriginalTextAnnotation=got CharacterOffsetBeginAnnotation=63 CharacterOffsetEndAnnotation=66 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=cut TextAnnotation=cut OriginalTextAnnotation=cut CharacterOffsetBeginAnnotation=67 CharacterOffsetEndAnnotation=70 BeforeAnnotation=  AfterAnnotation= ],
+ 	[ValueAnnotation=yesterday TextAnnotation=yesterday OriginalTextAnnotation=yesterday CharacterOffsetBeginAnnotation=71 CharacterOffsetEndAnnotation=80 BeforeAnnotation=  AfterAnnotation=]
+]
